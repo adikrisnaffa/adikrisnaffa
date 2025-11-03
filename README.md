@@ -1,6 +1,3 @@
-<!-- Ganti foto dengan link foto kamu (upload ke GitHub atau Imgur) -->
-<img align="left" width="200" style="border-radius:50%; margin-right:20px;" src="https://avatars.githubusercontent.com/u/1234567?v=4" alt="Your Photo">
-
 # 👋 Hi, I'm **Adikrisna Nugraha** (@adikrisnaffa)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/adikrisna-nugraha/)
