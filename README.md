@@ -49,16 +49,6 @@ I'm a passionate quality engineer with X+ years building scalable test framework
 
 ---
 
-## 🛠️ Languages & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
-  <!-- Tambah sesuai keahlianmu -->
-</p>
-
 ## 🤝 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/adikrisna-nugraha/" target="_blank">
