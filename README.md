@@ -30,10 +30,10 @@ I'm a passionate quality engineer with X+ years building scalable test framework
 
 ## 📊 GitHub Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adikrisnaffa&layout=compact&theme=dark)
-<br/>
-![Stats](https://github-readme-stats.vercel.app/api?username=adikrisnaffa&show_icons=true&theme=dark&hide_border=true)
-<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adikrisnaffa&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adikrisnaffa&show_icons=true&theme=dark)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=adikrisnaffa&theme=dark)
 
 ---
@@ -58,12 +58,6 @@ I'm a passionate quality engineer with X+ years building scalable test framework
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
   <!-- Tambah sesuai keahlianmu -->
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adikrisnaffa&layout=compact&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adikrisnaffa&show_icons=true&theme=dark)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=adikrisnaffa&theme=dark)
 
 ## 🤝 Connect with me:
 <p align="left">
