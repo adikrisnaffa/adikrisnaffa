@@ -14,7 +14,7 @@ I'm a passionate quality engineer with X+ years building scalable test framework
 - 🔭 Currently working on **[Nama Project](link)** – AI-powered visual testing
 - 🎓 Pursuing MSc in Computer Science
 - 💡 Ask me about **Playwright, AI in QA, Kubernetes, CI/CD**
-- 📫 Reach me: [LinkedIn]([https://www.linkedin.com/in/adikrisna-nugraha/)]()
+- 📫 Reach me: [LinkedIn]([https://www.linkedin.com/in/adikrisna-nugraha/)
 
 ---
 
@@ -67,19 +67,16 @@ I'm a passionate quality engineer with X+ years building scalable test framework
 
 ## 🤝 Connect with me:
 <p align="left">
-  <a href="https://twitter.com/namamu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/twitter.svg" alt="Twitter" height="40" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/namamu" target="_blank">
+  <a href="https://www.linkedin.com/in/adikrisna-nugraha/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://dribbble.com/namamu" target="_blank">
+  <a href="" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/dribbble.svg" alt="Dribbble" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/namamu" target="_blank">
+  <a href="https://instagram.com/adikrisnanugraha" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="https://youtube.com/@namamu" target="_blank">
+  <a href="" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/youtube.svg" alt="YouTube" height="40" width="40" />
   </a>
 </p>
