@@ -7,14 +7,14 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)]()
 [![Blog](https://img.shields.io/badge/Blog-adikrisnaffa-orange)]()
 
-**Senior QA Engineer | AI Test Automation | Open Source Enthusiast**
+**Test Architect QA Engineer | AI Test Automation | Open Source Enthusiast**
 
 I'm a passionate quality engineer with X+ years building scalable test frameworks. I bridge the gap between manual testing and AI-driven automation.
 
 - 🔭 Currently working on **[Nama Project](link)** – AI-powered visual testing
 - 🎓 Pursuing MSc in Computer Science
 - 💡 Ask me about **Playwright, AI in QA, Kubernetes, CI/CD**
-- 📫 Reach me: [LinkedIn]([https://linkedin.com/in/namamu](https://www.linkedin.com/in/adikrisna-nugraha/))
+- 📫 Reach me: [LinkedIn]([https://www.linkedin.com/in/adikrisna-nugraha/)]()
 
 ---
 
@@ -28,20 +28,13 @@ I'm a passionate quality engineer with X+ years building scalable test framework
 
 ---
 
-## 🏆 Achievements
-
-<img src="https://img.shields.io/badge/Some_Award-1st_Place-gold?style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/Another_Award-2nd_Place-silver?style=for-the-badge" height="30"/>
-
----
-
 ## 📊 GitHub Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namakamu&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adikrisnaffa&layout=compact&theme=dark)
 <br/>
-![Stats](https://github-readme-stats.vercel.app/api?username=namakamu&show_icons=true&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=adikrisnaffa&show_icons=true&theme=dark&hide_border=true)
 <br/>
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=namakamu&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=adikrisnaffa&theme=dark)
 
 ---
 
@@ -50,9 +43,9 @@ I'm a passionate quality engineer with X+ years building scalable test framework
 <br/>
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/namamu)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/namamu)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/@namakamu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/adikrisna-nugraha/](https://www.linkedin.com/in/adikrisna-nugraha/))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/adikrisnaffa)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)]()
 
 ---
 
